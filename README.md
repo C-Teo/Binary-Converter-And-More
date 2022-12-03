@@ -22,7 +22,6 @@ Please see the LICENSE file inside the repository.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Documentation](#documentation)
 - [Tests](#tests)
 
 ## Installation
@@ -44,24 +43,6 @@ and typing in the commands.
 - Convert
 - Assembly
 - Load
-
-## Documentation
-
-This is documentation saved for myself to better organize on what functions are currently working
-or being developed:
-
-- DecimalToBinary
-- DecimalToHex
-- HexToDecimal
-- HexToBinary
-- BinaryToDecimal
-- BinaryToHex
-- BinaryValid
-- HexValid
-- DecimalValid
-- validType
-- convertNumbers
-- ARC Assembly Component
 
 ## Tests
 
